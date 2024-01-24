@@ -13,9 +13,8 @@ This project created by basic use of HTML, CSS and Java Script.
 * **utils.css**: It is the style sheet that has been applied to our calculator.
 
 ## Outputs
-**The first output of this project is Power BI Dashboard:**
-![Screenshot (471)](https://github.com/kanika1404/Movie-Rating-Analysis-and-Pridiction/assets/130000020/9148623b-23de-4257-a68a-c98ac392c5fe)
 
+![Screenshot 2024-01-24 153640](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/6011f702-61ce-4313-9370-402f882a8def)
 
-**The link that had been added below direct to a web page where user need to enter data and click on submit button:**
-![Screenshot (472)](https://github.com/kanika1404/Movie-Rating-Analysis-and-Pridiction/assets/130000020
+![Screenshot 2024-01-24 153656](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/57ffa3e7-1c03-4e51-b366-e89c25d55e7b)
+
