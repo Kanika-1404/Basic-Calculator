@@ -14,7 +14,7 @@ This project created by basic use of HTML, CSS and Java Script.
 
 ## Outputs
 
-![Screenshot 2024-01-24 153640](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/6011f702-61ce-4313-9370-402f882a8def | width=100)
+![Screenshot 2024-01-24 153640](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/6011f702-61ce-4313-9370-402f882a8def) | width=100
 
 ![Screenshot 2024-01-24 153656](https://github.com/Kanika-1404/Basic-Calculator/assets/140299493/57ffa3e7-1c03-4e51-b366-e89c25d55e7b)
 
